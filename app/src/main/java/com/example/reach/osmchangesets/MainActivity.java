@@ -194,7 +194,7 @@ class MyAdapter extends BaseAdapter {
                 }
             });*/
              /*   osmCha.setOnClickListener(new View.OnClickListener() {
-            @Override
+            @Overridedgdfg
             public void onClick(View view) {
 
             }
